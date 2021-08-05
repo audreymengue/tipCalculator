@@ -14,3 +14,6 @@
 - Vanilla JavaScript
 - HTML5
 - CSS3
+
+## Challenges faced
+ - After performing an operatio, the bill as well as the results will vanish.
